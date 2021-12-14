@@ -4,4 +4,9 @@
 
 Snippets para Java.
 
-En construcción.
+### Índice
+
+| Nombre                  | Descripción                       | Link                                           |
+| ----------------------- | --------------------------------- | ---------------------------------------------- |
+| Manejo de Ficheros TXT  | Manipular Archivos/Ficheros TXT   |  [Link](https://github.com/Josephglz/Java-Snippets/blob/main/Ficheros/Files_TXT.java)
+| Manejo de Ficheros PDF  | Manipular Archivos/Ficheros PDF   |  En construcción.
