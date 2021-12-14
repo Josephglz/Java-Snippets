@@ -37,5 +37,5 @@ Este archivo, cuenta con distintos métodos para manipular archivos de texto (.t
     Files_PDF
 </summary>
 <br>
-En Construcción.
+En Construcción...
 </details>
